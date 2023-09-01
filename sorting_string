@@ -1,0 +1,11 @@
+
+input_string = "python"
+char_list = list(input_string)
+
+
+char_list.sort()
+
+sorted_string = ''.join(char_list)
+
+
+print("Sorted string:", sorted_string)
