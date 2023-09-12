@@ -21,3 +21,4 @@ def wordcount(filename):
         print(f"Error: {filename} not found")
 
 wordcount('wcfile.txt')
+
